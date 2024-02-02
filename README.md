@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a software developer based out of beautiful Vancouver, BC on the west coast of Canada, where I spend as much of my free time as I can in the outdoors 🌱, skateboarding 🛹, or bouldering with friends.
+I'm a software developer (mostly frontend) based out of beautiful Vancouver, BC on the west coast of Canada, where I spend as much of my free time as I can in the outdoors 🌱, skateboarding 🛹, or bouldering with friends.
 
 #### Lately I'm interested in...
 - The process of improvement through repitition and refinement
-- System economics in at small and large scales.
 - Performance and true iterative process in software development
+- Data visualization and design
 
 ### What I’m Learning 🎒
 - To build a modern computer from scratch, currently implementing a VM Translator as part of the [Nand2Tetris course](https://www.nand2tetris.org/), and  [The Elements of Computer Systems](https://www.amazon.com/Elements-Computing-Systems-Building-Principles/dp/0262640686/ref=ed_oe_p)
