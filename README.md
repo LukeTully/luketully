@@ -34,7 +34,7 @@ I'm a software developer (mostly frontend) based out of beautiful Vancouver, BC 
 ### I’m looking for work!
 As either an independent contractor, or full-time employee, I’m looking to bring my skills as a frontend developer to your team or business. 
 #### I’d bring with me the following non-exhaustive list of skills, experiences, and other ways I’d be able to add value 
-I’d be expecting that at the right place (as an employee) there would be the option or expectation to continually grow and add to the list
+> I’d be expecting that at the right place (as an employee) there would be the option or expectation to continually grow and add to the list
 ##### I have professional/technical experience with…
 - Contributing to large typed or untyped, JavaScript and Python codebases
 - Improving test coverage by designing and implementing automated integration and unit tests in Jest using [testing-library](https://testing-library.com/docs/react-testing-library/intro/), [cypress](https://www.cypress.io/), [puppeteer](https://pptr.dev/), and incorporating dependency injection principles into the design of previously tightly-coupled controllers or components
