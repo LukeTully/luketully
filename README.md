@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a software developer (mostly frontend) based out of beautiful Vancouver, BC on the west coast of Canada, where I spend as much of my free time as I can in the outdoors 🌱, skateboarding 🛹, or bouldering with friends.
+I'm a software developer based out of Vancouver, BC on the west coast of Canada, in my free time I'm usually outdoors 🌱, skateboarding 🛹, or bouldering.
 
 #### Lately I'm interested in...
 - The process of improvement through repitition and refinement
